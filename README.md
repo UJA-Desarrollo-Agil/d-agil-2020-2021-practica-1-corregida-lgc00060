@@ -1,12 +1,8 @@
-# Plantilla Práctica 1
-Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
 
-Tu tarea consiste en modificar este fichero README.md de modo que pongas tus datos en formato MarkDown:
 
-### Víctor M. Rivas Santos
+### Laura García Calderón
 
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+Alumna de ingeniería informática en la Universidad de Jaén
+**Correo**: lgc00060@red.ujaen.es
+**GitHub**: https://github.com/lgc00060
+* **Trello**: https://trello.com/lauragarciacalderon
